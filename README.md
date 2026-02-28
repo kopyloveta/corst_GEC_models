@@ -1,9 +1,9 @@
-# Данные к статье *название статьи*
+# *название статьи* data
 
-В репозитории содержатся:
-1. файл1 - датасет
-2. файл2 - расшифровка тегов ошибок
-3. файл3 - критерии оценивания автоматических исправлений
-4. rus - папка с русскими переводами файл2 и файл3
+This repository contains the following files:
+1. corst_data.csv &mdash; the dataset with 
+2. tags_glossary.pdf &mdash; errors tags glossary
+3. criteria.pdf &mdash; criteria for evaluating automatic corrections
+4. rus &mdash; the folder with russian version of tags glossary and criteria
 
-CC-BY-4.0 (дописать покрасивее)
+Data are distributed under a Creative commons Attribution 4.0 International licence (CC BY 4.0)

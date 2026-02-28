@@ -1,7 +1,7 @@
 # *название статьи* data
 
 This repository contains the following files:
-1. corst_data.csv &mdash; the dataset with 
+1. corst_data.csv &mdash; the dataset
 2. tags_glossary.pdf &mdash; errors tags glossary
 3. criteria.pdf &mdash; criteria for evaluating automatic corrections
 4. rus &mdash; the folder with russian version of tags glossary and criteria

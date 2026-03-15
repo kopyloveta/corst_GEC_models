@@ -1,4 +1,4 @@
-# *название статьи* data
+# *Correcting or Rewriting? An Expert Evaluation of LLM-Based GEC on Academic Learner Data*
 
 This repository contains the following files:
 1. corst_data.csv &mdash; the dataset
